@@ -15,3 +15,8 @@
 [trapping rain water](https://leetcode-cn.com/problems/trapping-rain-water/)
 
 [跳跃游戏](https://leetcode-cn.com/problems/jump-game-ii/)
+
+### 01.30
+[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+[unique-binary-search-trees-ii](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
