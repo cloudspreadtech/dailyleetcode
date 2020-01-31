@@ -1,4 +1,5 @@
 # Leetcode每日打卡
+The best time to plant a tree is ten years ago. The second-best is now.
 
 ## 2020
 ### 01.27
@@ -20,3 +21,8 @@
 [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
 [unique-binary-search-trees-ii](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/)
+
+### 01.31
+[recover-binary-search-tree](https://leetcode-cn.com/problems/recover-binary-search-tree/)
+
+[word break ii](https://leetcode-cn.com/problems/word-break-ii/)
