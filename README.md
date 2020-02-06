@@ -26,3 +26,25 @@ The best time to plant a tree is ten years ago. The second-best is now.
 [recover-binary-search-tree](https://leetcode-cn.com/problems/recover-binary-search-tree/)
 
 [word break ii](https://leetcode-cn.com/problems/word-break-ii/)
+
+### 02.01
+[gas station](https://leetcode-cn.com/problems/gas-station/)
+
+[数据流中寻找中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/)
+
+### 02.02
+[Longest Substring with At Least K Repeating Characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)
+
+### 02.03
+[unique paths ii](https://leetcode-cn.com/problems/unique-paths-ii/)
+
+### 02.04
+[burst balloons](https://leetcode-cn.com/problems/burst-balloons/)
+
+### 02.05
+[Populating Next Right Pointers in Each Node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
+
+### 02.06
+[Smallest Rotation with Highest Score](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/)
+
+[Combination sum](https://leetcode-cn.com/classic/problems/combination-sum/description)
