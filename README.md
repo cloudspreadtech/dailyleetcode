@@ -48,3 +48,11 @@ The best time to plant a tree is ten years ago. The second-best is now.
 [Smallest Rotation with Highest Score](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/)
 
 [Combination sum](https://leetcode-cn.com/classic/problems/combination-sum/description)
+
+### 02.07
+[increasing triplet subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+
+### 02.08
+[count and say](https://leetcode-cn.com/problems/count-and-say/)
+
+[the skyline problem](https://leetcode-cn.com/problems/the-skyline-problem/)
