@@ -59,3 +59,8 @@ The best time to plant a tree is ten years ago. The second-best is now.
 
 ### 02.09
 [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
+
+### 02.10
+[copy list with random pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+
+[faction to recurring decimal](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)
