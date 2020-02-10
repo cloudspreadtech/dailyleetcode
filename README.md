@@ -56,3 +56,6 @@ The best time to plant a tree is ten years ago. The second-best is now.
 [count and say](https://leetcode-cn.com/problems/count-and-say/)
 
 [the skyline problem](https://leetcode-cn.com/problems/the-skyline-problem/)
+
+### 02.09
+[二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)
